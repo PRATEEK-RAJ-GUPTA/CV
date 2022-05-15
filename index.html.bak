@@ -1,0 +1,82 @@
+<<!DOCTYPE html>
+  <html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <title>🙏Prateek's personal site</title>
+  </head>
+
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <th>"img src=E:\web development\web developement\PRATEEK2021.JPG" width="150" height="150"
+        </th>
+        <th>
+          <h1>PRATEEK RAJ GUPTA</h1>
+          <p><em>learner of <strong>WEB DEVELOPMENT</strong></em></p>
+          <p>I am a engineering student studying in the first year trying to learn all the necceassary skill to bea good developers</p>
+          <h4>contact details</h4>
+          <a href="contact.html">contact me!</a>
+        </th>
+      </tr>
+	  <hr size="5">
+    </table>
+    <hr size="5">
+    <h2>BOOKS AND EDUCATIONS</h2>
+    <table align="centre" border="1">
+      <colgroup span="4"></colgroup>
+      <tr>
+        <th>BOOK NAME</th>
+        <th>AUTHOR NAME</th>
+        <th>PUBLICATION</th>
+        <th>YEAR OF RELEASE</th>
+      </tr>
+      <tr>
+        <td>STATISTICAL MATHMATICS</td>
+        <td>JOHN E FREUD</td>
+        <td>BHARTI BHAVAN</td>
+        <td>1980</td>
+      </tr>
+      <tr>
+        <td>HEAD FIRST HTML AND CSS</td>
+        <td>ROBSON AND FREEMAN</td>
+        <td>DELHI PUBLICATION</td>
+        <td>1998</td>
+      </tr>
+      <tr>
+        <td>GRANDMA STORIES</td>
+        <td>RAJESH KHANNA</td>
+        <td>DELHI PUBLICATIION</td>
+        <td>2003</td>
+      </tr>
+    </table>
+	<hr size="5" color="red">
+    <h2>MY HOBBIES</h2>
+        <ul>
+          <li>FISHING
+          </li>
+          <li>READING BOOKS
+          </li>
+          <li>CRICKET PLAYING
+          </li>
+        </ul>
+		<hr size="5">
+        <h3>SKILLS<h3>
+          <table bgcolor="aqua" border="1">
+            <colgroup>
+              <col span="2">
+            <tr bgcolor="yellow">
+              <th>Skills</th>
+              <th>Star</th>
+            </tr>
+            <tr>
+              <th>C++</th>
+              <th>*****</th>
+            </tr>
+            <tr>
+              <th>MATLAB</th>
+              <th>***</th>
+            </tr>
+  </body>
+
+  </html>

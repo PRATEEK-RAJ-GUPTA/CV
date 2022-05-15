@@ -1,0 +1,51 @@
+<html>
+<<!DOCTYPE html>
+  <html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <tilte>CONTACT DETAILS</title>
+  </head>
+
+  <body>
+    <table border="2">
+      <colgroup>
+        <col style="background-color:#0f0">
+        <col span="2">
+      </colgroup>
+      <tr>
+        <th>phone number</th>
+        <th>emailid</th>
+      </tr>
+      <tr>
+        <th><strong>9830663648</strong></th>
+        <th><strong>prateekrajg49@gmail.com</strong></th>
+      </tr>
+	  </table>
+	  <hr>
+	  <br>
+	  <form class="" action="mailto:prateekrajg49@gmail " method="post">
+	  <label>YOUR NAME</label>
+	  <input type="text" name=" " value=" ">
+	  <input type="color" name=" " value=" "><br>
+	  <label>Choose a file</label>
+	  <input type="file" name=" " value=" ">
+	  <label>Date and time</label>
+	  <input type="date" name=" " value=" ">
+	  <br>
+	  <label>Enter your message</label>
+	  <textarea name="name" rows="8" cols="80"></textarea><br>
+	  <label>Do you want to sign up?</label>
+	  <input type="checkbox" name=" " value=" ">
+	  <label>write the email-id</label>
+	  <input type="email" name=" " value=" "><br>
+	  </label>PASSWORD</label>
+	  <input type="password" name=" " value=" "><br>
+	  <label>PRESS TO RESET</label>
+	  <input type="reset" name=" " value=" "><br>
+	  <label>press to submit</label>
+	  <input type="submit" name=" " value=" ">
+	  
+  </body>
+
+  </html>
